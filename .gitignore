@@ -1,0 +1,13 @@
+# Datasets and large files
+data/
+*.csv
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environments
+.env
+venv/
+env/
